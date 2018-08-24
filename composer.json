@@ -9,9 +9,9 @@
         }
     ],
     "autload":{
-	"psr-4":[
+	"psr-4":{
 		"Oldshiji\\JackTest\\":"./src/"
-        ]
+        }
     },
     "require": {}
 }
