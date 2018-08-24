@@ -1,0 +1,17 @@
+{
+    "name": "oldshiji/jack-test",
+    "description": "a test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oldshiji",
+            "email": "1655664358@qq.com"
+        }
+    ],
+    "autload":{
+	"psr-4":[
+		"Oldshiji\\JackTest\\":"./src/"
+        ]
+    },
+    "require": {}
+}
